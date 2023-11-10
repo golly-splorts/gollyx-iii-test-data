@@ -1,0 +1,531 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 13,
+                "team1Name": "Sparks Safety Scissors",
+                "team2Name": "Gardnerville Sandwiches",
+                "team1Abbr": "SLC",
+                "team2Abbr": "SS",
+                "patternName": "classictimebomb",
+                "description": "Game 1, Cold League Division Series 1",
+                "id": "1e2ec187-5d3b-4770-a9f3-a63c7d1164a4",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 13,
+                "team1Name": "Fallon Fridays",
+                "team2Name": "Sun Valley Plumbers",
+                "team1Abbr": "ABQ",
+                "team2Abbr": "FF",
+                "patternName": "helltimebombredux",
+                "description": "Game 1, Cold League Division Series 2",
+                "id": "6d8d57b5-37ff-47b4-ad28-cd6b64437ac8",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 13,
+                "team1Name": "Carlin Bone Throwers",
+                "team2Name": "Johnson Lane Flying Pirates",
+                "team1Abbr": "DET",
+                "team2Abbr": "BB",
+                "patternName": "random",
+                "description": "Game 1, Hot League Division Series 1",
+                "id": "aa70a91d-f818-4ebd-80ba-0d06cef840bf",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 13,
+                "team1Name": "Nellis Wild Turkeys",
+                "team2Name": "Lovelock Lamp Lovers",
+                "team1Abbr": "MILF",
+                "team2Abbr": "DECO",
+                "patternName": "bigsegment",
+                "description": "Game 1, Hot League Division Series 2",
+                "id": "c164cf40-a87a-4eb2-aa76-ed76a6b90df4",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 13,
+                "team1Name": "Sparks Safety Scissors",
+                "team2Name": "Gardnerville Sandwiches",
+                "team1Abbr": "SLC",
+                "team2Abbr": "SS",
+                "patternName": "classictimebomb",
+                "description": "Game 2, Cold League Division Series 1",
+                "id": "4d1821b8-9d1f-494e-ac6c-5e3855e9c09f",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 13,
+                "team1Name": "Fallon Fridays",
+                "team2Name": "Sun Valley Plumbers",
+                "team1Abbr": "ABQ",
+                "team2Abbr": "FF",
+                "patternName": "quadjustyna",
+                "description": "Game 2, Cold League Division Series 2",
+                "id": "75abde70-93d3-43a6-bdde-55812f1a32d6",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 13,
+                "team1Name": "Carlin Bone Throwers",
+                "team2Name": "Johnson Lane Flying Pirates",
+                "team1Abbr": "DET",
+                "team2Abbr": "BB",
+                "patternName": "twoacorn",
+                "description": "Game 2, Hot League Division Series 1",
+                "id": "2ddeb4e5-4af2-4155-9dfb-90c00ef155e6",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 13,
+                "team1Name": "Nellis Wild Turkeys",
+                "team2Name": "Lovelock Lamp Lovers",
+                "team1Abbr": "MILF",
+                "team2Abbr": "DECO",
+                "patternName": "randomsegment",
+                "description": "Game 2, Hot League Division Series 2",
+                "id": "d0c59284-b036-4572-92b0-464617803ad7",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 13,
+                "team1Name": "Gardnerville Sandwiches",
+                "team2Name": "Sparks Safety Scissors",
+                "team1Abbr": "SS",
+                "team2Abbr": "SLC",
+                "patternName": "bigsegment",
+                "description": "Game 3, Cold League Division Series 1",
+                "id": "4bbe304c-796e-44ae-addb-7872bf093814",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 13,
+                "team1Name": "Sun Valley Plumbers",
+                "team2Name": "Fallon Fridays",
+                "team1Abbr": "FF",
+                "team2Abbr": "ABQ",
+                "patternName": "twomultum",
+                "description": "Game 3, Cold League Division Series 2",
+                "id": "8ffd6a80-3df8-428d-a70e-6a1290f0e940",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 13,
+                "team1Name": "Johnson Lane Flying Pirates",
+                "team2Name": "Carlin Bone Throwers",
+                "team1Abbr": "BB",
+                "team2Abbr": "DET",
+                "patternName": "randompartition",
+                "description": "Game 3, Hot League Division Series 1",
+                "id": "155299b5-63b6-4fcf-b379-3660f914f8b3",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 13,
+                "team1Name": "Lovelock Lamp Lovers",
+                "team2Name": "Nellis Wild Turkeys",
+                "team1Abbr": "DECO",
+                "team2Abbr": "MILF",
+                "patternName": "spaceshipcrash",
+                "description": "Game 3, Hot League Division Series 2",
+                "id": "2ccb1917-b8c6-4181-a950-93a49b23d47b",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 13,
+                "team1Name": "Gardnerville Sandwiches",
+                "team2Name": "Sparks Safety Scissors",
+                "team1Abbr": "SS",
+                "team2Abbr": "SLC",
+                "patternName": "random",
+                "description": "Game 4, Cold League Division Series 1",
+                "id": "641b0a38-b9ad-4de6-bc97-c8489e5610fe",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 13,
+                "team1Name": "Sun Valley Plumbers",
+                "team2Name": "Fallon Fridays",
+                "team1Abbr": "FF",
+                "team2Abbr": "ABQ",
+                "patternName": "fourrabbits",
+                "description": "Game 4, Cold League Division Series 2",
+                "id": "87eb9d18-fb05-4230-b61a-518952fa5767",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 13,
+                "team1Name": "Johnson Lane Flying Pirates",
+                "team2Name": "Carlin Bone Throwers",
+                "team1Abbr": "BB",
+                "team2Abbr": "DET",
+                "patternName": "quadjustyna",
+                "description": "Game 4, Hot League Division Series 1",
+                "id": "62c37012-0d6c-4851-91f2-677e304e6df6",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 13,
+                "team1Name": "Lovelock Lamp Lovers",
+                "team2Name": "Nellis Wild Turkeys",
+                "team1Abbr": "DECO",
+                "team2Abbr": "MILF",
+                "patternName": "randompartition",
+                "description": "Game 4, Hot League Division Series 2",
+                "id": "d7d2e00d-afb4-49f4-a0a1-ef86830da46f",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 13,
+                "team1Name": "Sparks Safety Scissors",
+                "team2Name": "Gardnerville Sandwiches",
+                "team1Abbr": "SLC",
+                "team2Abbr": "SS",
+                "patternName": "crabs",
+                "description": "Game 5, Cold League Division Series 1",
+                "id": "417f0e91-86d9-430d-9111-45d109d3b9fc",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 13,
+                "team1Name": "Fallon Fridays",
+                "team2Name": "Sun Valley Plumbers",
+                "team1Abbr": "ABQ",
+                "team2Abbr": "FF",
+                "patternName": "doublegaussian",
+                "description": "Game 5, Cold League Division Series 2",
+                "id": "078b0d32-e77e-433f-88a8-29762aba982e",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 13,
+                "team1Name": "Carlin Bone Throwers",
+                "team2Name": "Johnson Lane Flying Pirates",
+                "team1Abbr": "DET",
+                "team2Abbr": "BB",
+                "patternName": "porchlights",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "113adb82-10e7-41b1-b03d-3c15ef5ac063",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 13,
+                "team1Name": "Nellis Wild Turkeys",
+                "team2Name": "Lovelock Lamp Lovers",
+                "team1Abbr": "MILF",
+                "team2Abbr": "DECO",
+                "patternName": "switchengines",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "624e4e0b-2809-4253-a539-c2db4a25f240",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randompartition",
+                "league": "Cold League",
+                "season": 13,
+                "description": "Game 1, Cold League Championship Series",
+                "id": "b52b7049-4928-49dd-8dfd-6198e228b7cd",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "crabs",
+                "league": "Hot League",
+                "season": 13,
+                "description": "Game 1, Hot League Championship Series",
+                "id": "77c5e241-951a-49be-8677-9b0d96645b9d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spaceshipcrash",
+                "league": "Cold League",
+                "season": 13,
+                "description": "Game 2, Cold League Championship Series",
+                "id": "260d1c10-d790-42aa-a7cd-74086bc6092d",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "random",
+                "league": "Hot League",
+                "season": 13,
+                "description": "Game 2, Hot League Championship Series",
+                "id": "8b49d622-84f7-407c-990d-9abdc9970048",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randommethuselahs",
+                "league": "Cold League",
+                "season": 13,
+                "description": "Game 3, Cold League Championship Series",
+                "id": "b215ce3b-7b63-49b5-9f00-cf26774c9b65",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "random",
+                "league": "Hot League",
+                "season": 13,
+                "description": "Game 3, Hot League Championship Series",
+                "id": "7b7a2cf3-ae5a-4a48-b5f6-910bfc9cf3d9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randomsegment",
+                "league": "Cold League",
+                "season": 13,
+                "description": "Game 4, Cold League Championship Series",
+                "id": "2de6a677-6773-4a1a-9e14-2ee9fafc847f",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "random",
+                "league": "Hot League",
+                "season": 13,
+                "description": "Game 4, Hot League Championship Series",
+                "id": "325cda03-41cb-4674-bb7e-025c65aefc04",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "bigsegment",
+                "league": "Cold League",
+                "season": 13,
+                "description": "Game 5, Cold League Championship Series",
+                "id": "d78993c2-8f79-4c84-857f-391fe381c17a",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spiders",
+                "league": "Hot League",
+                "season": 13,
+                "description": "Game 5, Hot League Championship Series",
+                "id": "7c866af2-9639-41db-b23f-b499c7ba4875",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "fourrabbits",
+                "league": "Cold League",
+                "season": 13,
+                "description": "Game 6, Cold League Championship Series",
+                "id": "d5c0bb7f-adf1-4787-9225-fd5fd19a1945",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "random",
+                "league": "Hot League",
+                "season": 13,
+                "description": "Game 6, Hot League Championship Series",
+                "id": "6d64b14c-4bd3-4a0c-974d-8cc3638f8820",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "quadjustyna",
+                "league": "Cold League",
+                "season": 13,
+                "description": "Game 7, Cold League Championship Series",
+                "id": "33552876-b6e6-4137-906b-2a4d8d9429c9",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "helltimebomb",
+                "league": "Hot League",
+                "season": 13,
+                "description": "Game 7, Hot League Championship Series",
+                "id": "6b80fbd9-6897-4141-9fc8-f76bb978d5cc",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "HCS": [
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "helltimebombredux",
+                "description": "Game 1, Hellmouth III Cup",
+                "season": 13,
+                "id": "ba648a8c-1736-4c56-8535-a273887ebf35",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "twomultum",
+                "description": "Game 2, Hellmouth III Cup",
+                "season": 13,
+                "id": "a5ed7796-8014-4491-b1dc-52d0bbf8df94",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spaceshipsegment",
+                "description": "Game 3, Hellmouth III Cup",
+                "season": 13,
+                "id": "84508778-a5c2-4b1f-8a1a-5800a4d820f9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "twospaceshipgenerators",
+                "description": "Game 4, Hellmouth III Cup",
+                "season": 13,
+                "id": "015252cd-38fa-4b03-bca9-010e8004b549",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "eightpi",
+                "description": "Game 5, Hellmouth III Cup",
+                "season": 13,
+                "id": "38da475d-30be-4f9c-a3bf-b17fd80e2b36",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "eightr",
+                "description": "Game 6, Hellmouth III Cup",
+                "season": 13,
+                "id": "c35f98d9-b360-4682-a4f5-388cdb90137e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spiders",
+                "description": "Game 7, Hellmouth III Cup",
+                "season": 13,
+                "id": "86b2c06e-774e-456a-b1b1-63ac93c142ba",
+                "isPostseason": true
+            }
+        ]
+    ]
+}

@@ -1,0 +1,531 @@
+{
+    "LDS": [
+        [
+            {
+                "league": "Cold League",
+                "season": 20,
+                "team1Name": "Carson City Sausagefingers",
+                "team2Name": "Wells Millennials",
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA",
+                "patternName": "crabs",
+                "description": "Game 1, Cold League Division Series 1",
+                "id": "1714e358-4802-4a18-b727-62a594f2cf12",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 20,
+                "team1Name": "Boulder City Sidecars",
+                "team2Name": "Enterprise Hipsters",
+                "team1Abbr": "BTX2",
+                "team2Abbr": "TB",
+                "patternName": "twoacorn",
+                "description": "Game 1, Cold League Division Series 2",
+                "id": "20960a99-1312-47a9-963e-d44fd0f5c970",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 20,
+                "team1Name": "Johnson Lane Flying Pirates",
+                "team2Name": "Carlin Bone Throwers",
+                "team1Abbr": "BB",
+                "team2Abbr": "DET",
+                "patternName": "helltimebomb",
+                "description": "Game 1, Hot League Division Series 1",
+                "id": "7313ff65-040a-4371-8945-46b99ac2283b",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 20,
+                "team1Name": "Winnemucca Mathematicians",
+                "team2Name": "Nellis Wild Turkeys",
+                "team1Abbr": "AA",
+                "team2Abbr": "MILF",
+                "patternName": "randommethuselahs",
+                "description": "Game 1, Hot League Division Series 2",
+                "id": "d818ec57-f933-4137-a636-ab2d656fa7c6",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 20,
+                "team1Name": "Carson City Sausagefingers",
+                "team2Name": "Wells Millennials",
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA",
+                "patternName": "randomsegment",
+                "description": "Game 2, Cold League Division Series 1",
+                "id": "e0ce17db-e821-4d8f-9b91-b3cb61eb7f4d",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 20,
+                "team1Name": "Boulder City Sidecars",
+                "team2Name": "Enterprise Hipsters",
+                "team1Abbr": "BTX2",
+                "team2Abbr": "TB",
+                "patternName": "twoacorn",
+                "description": "Game 2, Cold League Division Series 2",
+                "id": "0f9f5525-609d-44d5-ba43-c9fb85e6a2c0",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 20,
+                "team1Name": "Johnson Lane Flying Pirates",
+                "team2Name": "Carlin Bone Throwers",
+                "team1Abbr": "BB",
+                "team2Abbr": "DET",
+                "patternName": "rabbitfarm",
+                "description": "Game 2, Hot League Division Series 1",
+                "id": "64ec6069-9f96-49e3-b9f0-b64c72d33c38",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 20,
+                "team1Name": "Winnemucca Mathematicians",
+                "team2Name": "Nellis Wild Turkeys",
+                "team1Abbr": "AA",
+                "team2Abbr": "MILF",
+                "patternName": "doublegaussian",
+                "description": "Game 2, Hot League Division Series 2",
+                "id": "455ca618-7530-48be-9317-5f3425d430f0",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 20,
+                "team1Name": "Wells Millennials",
+                "team2Name": "Carson City Sausagefingers",
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA",
+                "patternName": "twomultum",
+                "description": "Game 3, Cold League Division Series 1",
+                "id": "9b02b53b-7e10-4db8-96ac-673ec37cb1eb",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 20,
+                "team1Name": "Enterprise Hipsters",
+                "team2Name": "Boulder City Sidecars",
+                "team1Abbr": "TB",
+                "team2Abbr": "BTX2",
+                "patternName": "doublegaussian",
+                "description": "Game 3, Cold League Division Series 2",
+                "id": "29072a5f-9f85-4773-94e2-5f48e0605f4c",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 20,
+                "team1Name": "Carlin Bone Throwers",
+                "team2Name": "Johnson Lane Flying Pirates",
+                "team1Abbr": "DET",
+                "team2Abbr": "BB",
+                "patternName": "helltimebombredux",
+                "description": "Game 3, Hot League Division Series 1",
+                "id": "3a1e5eb0-34d3-4bfd-bfa8-ae7b34116490",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 20,
+                "team1Name": "Nellis Wild Turkeys",
+                "team2Name": "Winnemucca Mathematicians",
+                "team1Abbr": "MILF",
+                "team2Abbr": "AA",
+                "patternName": "eightr",
+                "description": "Game 3, Hot League Division Series 2",
+                "id": "c8b96b11-83f9-44d5-879b-7450fe19ca79",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 20,
+                "team1Name": "Wells Millennials",
+                "team2Name": "Carson City Sausagefingers",
+                "team1Abbr": "SDBA",
+                "team2Abbr": "EA",
+                "patternName": "doublegaussian",
+                "description": "Game 4, Cold League Division Series 1",
+                "id": "f05a0af3-1b69-4688-9745-d823c8970975",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 20,
+                "team1Name": "Enterprise Hipsters",
+                "team2Name": "Boulder City Sidecars",
+                "team1Abbr": "TB",
+                "team2Abbr": "BTX2",
+                "patternName": "eightpi",
+                "description": "Game 4, Cold League Division Series 2",
+                "id": "e3a9fe04-bf59-4b5c-ac0b-9104b72dba65",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 20,
+                "team1Name": "Carlin Bone Throwers",
+                "team2Name": "Johnson Lane Flying Pirates",
+                "team1Abbr": "DET",
+                "team2Abbr": "BB",
+                "patternName": "spaceshipcluster",
+                "description": "Game 4, Hot League Division Series 1",
+                "id": "dfa936d8-9b75-4352-988d-712fae32586f",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 20,
+                "team1Name": "Nellis Wild Turkeys",
+                "team2Name": "Winnemucca Mathematicians",
+                "team1Abbr": "MILF",
+                "team2Abbr": "AA",
+                "patternName": "classictimebomb",
+                "description": "Game 4, Hot League Division Series 2",
+                "id": "65246c8d-fe9b-40ee-966e-4fc0eeaeef22",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "league": "Cold League",
+                "season": 20,
+                "team1Name": "Carson City Sausagefingers",
+                "team2Name": "Wells Millennials",
+                "team1Abbr": "EA",
+                "team2Abbr": "SDBA",
+                "patternName": "quadjustyna",
+                "description": "Game 5, Cold League Division Series 1",
+                "id": "c71f65bf-146f-4c76-9951-682ca68df837",
+                "isPostseason": true
+            },
+            {
+                "league": "Cold League",
+                "season": 20,
+                "team1Name": "Boulder City Sidecars",
+                "team2Name": "Enterprise Hipsters",
+                "team1Abbr": "BTX2",
+                "team2Abbr": "TB",
+                "patternName": "spaceshipcluster",
+                "description": "Game 5, Cold League Division Series 2",
+                "id": "7547efe4-9cd8-4c6a-9559-4cd2a2122ff8",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 20,
+                "team1Name": "Johnson Lane Flying Pirates",
+                "team2Name": "Carlin Bone Throwers",
+                "team1Abbr": "BB",
+                "team2Abbr": "DET",
+                "patternName": "doublegaussian",
+                "description": "Game 5, Hot League Division Series 1",
+                "id": "8b271e6b-c5f5-4c1b-b288-df1d04a75aa2",
+                "isPostseason": true
+            },
+            {
+                "league": "Hot League",
+                "season": 20,
+                "team1Name": "Winnemucca Mathematicians",
+                "team2Name": "Nellis Wild Turkeys",
+                "team1Abbr": "AA",
+                "team2Abbr": "MILF",
+                "patternName": "hellmath",
+                "description": "Game 5, Hot League Division Series 2",
+                "id": "4586c05c-2b4b-414d-b474-c2a93d802bd0",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "LCS": [
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "doublegaussian",
+                "league": "Cold League",
+                "season": 20,
+                "description": "Game 1, Cold League Championship Series",
+                "id": "e1678af5-b8fa-4262-9580-fe4ce286b452",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "helltimebombredux",
+                "league": "Hot League",
+                "season": 20,
+                "description": "Game 1, Hot League Championship Series",
+                "id": "e0feb75f-1f76-4896-847e-8ba91742c8f9",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "porchlights",
+                "league": "Cold League",
+                "season": 20,
+                "description": "Game 2, Cold League Championship Series",
+                "id": "b4177d53-ef17-48b2-a869-0752b6778636",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "helltimebombredux",
+                "league": "Hot League",
+                "season": 20,
+                "description": "Game 2, Hot League Championship Series",
+                "id": "95ffa6a8-8dcd-4b04-8463-6fd4aacb54b5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "quadjustyna",
+                "league": "Cold League",
+                "season": 20,
+                "description": "Game 3, Cold League Championship Series",
+                "id": "de13c2d6-ba56-4d4d-a55b-4e7b1c575879",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "eightpi",
+                "league": "Hot League",
+                "season": 20,
+                "description": "Game 3, Hot League Championship Series",
+                "id": "9ef22446-6a3b-49d8-9c25-c5f7479effea",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spiders",
+                "league": "Cold League",
+                "season": 20,
+                "description": "Game 4, Cold League Championship Series",
+                "id": "475b16ba-6fac-4d3b-a929-16906a5d33d3",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randomsegment",
+                "league": "Hot League",
+                "season": 20,
+                "description": "Game 4, Hot League Championship Series",
+                "id": "67629e57-60fa-44be-8420-6018b4c5a25e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spiders",
+                "league": "Cold League",
+                "season": 20,
+                "description": "Game 5, Cold League Championship Series",
+                "id": "0bd4a227-8f4a-4f1e-96bc-c04b2f5d5a39",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Bottom Seed",
+                "team2Name": "Top Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "helltimebombredux",
+                "league": "Hot League",
+                "season": 20,
+                "description": "Game 5, Hot League Championship Series",
+                "id": "afad805a-e7e8-4bbe-b871-ec308cc9a743",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randompartition",
+                "league": "Cold League",
+                "season": 20,
+                "description": "Game 6, Cold League Championship Series",
+                "id": "260b01a1-e2c6-44df-b056-af3271a43687",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "hellmath",
+                "league": "Hot League",
+                "season": 20,
+                "description": "Game 6, Hot League Championship Series",
+                "id": "5c6b73ac-6598-45d2-8213-92f0a3197d9e",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "helltimebombredux",
+                "league": "Cold League",
+                "season": 20,
+                "description": "Game 7, Cold League Championship Series",
+                "id": "2e637603-aba4-4786-b94a-9142b7a995a9",
+                "isPostseason": true
+            },
+            {
+                "team1Name": "Top Seed",
+                "team2Name": "Bottom Seed",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "eightpi",
+                "league": "Hot League",
+                "season": 20,
+                "description": "Game 7, Hot League Championship Series",
+                "id": "a34563be-bedc-42e0-ac2a-8e65f93ca203",
+                "isPostseason": true
+            }
+        ]
+    ],
+    "HCS": [
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "helltimebomb",
+                "description": "Game 1, Hellmouth III Cup",
+                "season": 20,
+                "id": "f0880a1e-386b-432e-9ed3-42f7b729848c",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spiders",
+                "description": "Game 2, Hellmouth III Cup",
+                "season": 20,
+                "id": "295411df-b82e-4c1d-847a-99eefe8765e5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "switchengines",
+                "description": "Game 3, Hellmouth III Cup",
+                "season": 20,
+                "id": "b869bd63-c166-4531-927b-a3681e2271eb",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "spaceshipcrash",
+                "description": "Game 4, Hellmouth III Cup",
+                "season": 20,
+                "id": "ca983e7e-e661-40a3-bb62-c654b9461808",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Hot League",
+                "team2Name": "Cold League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "randommethuselahs",
+                "description": "Game 5, Hellmouth III Cup",
+                "season": 20,
+                "id": "7faeb590-e0bc-49bb-937d-b465ecfad02d",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "twospaceshipgenerators",
+                "description": "Game 6, Hellmouth III Cup",
+                "season": 20,
+                "id": "5001fdb2-50eb-4cd7-9536-e2372ac27ed5",
+                "isPostseason": true
+            }
+        ],
+        [
+            {
+                "team1Name": "Cold League",
+                "team2Name": "Hot League",
+                "team1Abbr": "",
+                "team2Abbr": "",
+                "patternName": "crabs",
+                "description": "Game 7, Hellmouth III Cup",
+                "season": 20,
+                "id": "e8894ae5-1cda-4c9a-9f1f-3d25434328fc",
+                "isPostseason": true
+            }
+        ]
+    ]
+}
