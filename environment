@@ -1,0 +1,3 @@
+#!/bin/bash
+
+export GOLLYX_III_DATA_HOME="$HOME/golly/data/gollyx-iii-data"
